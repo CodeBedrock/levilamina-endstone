@@ -1,5 +1,5 @@
 #pragma once
-#ifdef LL_MEMORY_OPERATORS
+#if 0
 // This header provides convenient overrides for the new and
 // delete operations in C++.
 //
